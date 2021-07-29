@@ -33,9 +33,9 @@ The first dataset had a yearly documented number of 1175 patients, the second 15
 As the effe of influencing factors tend to be consistent across all populations, the aspects of urban planning and individual life choices are also worth considering. The healthy population can not intuitively feel the air pollution levels, to an extent that would be accessible with detection and prevention, and the higher sensitivity of people suffering from asthma makes relying on data based calculation a relevant inquiry. A good understanding of air pollutant interactions over the span of decades, the air quality indicators, and the influecing factors contributing to air impurity knowing the effects of genetic predisposition can lead to improved lifestyle choices. Understanding and predicting the weight of air pollutants can make a difference in evaluating decisions on the daily life of those effected directly or indirectly by asthma 
 
 ## Links
-*https://www.cdc.gov/places/index.html
-*https://data.world/data-society/us-air-pollution-data
-*https://aqicn.org/city/usa/alabama
-*https://www.epa.gov/air-trends/particulate-matter-pm10-trends
-*https://www.arcgis.com/home/search.html?q=asthma
-*https://www.cdc.gov/asthma/asthmadata.htm
+* https://www.cdc.gov/places/index.html
+* https://data.world/data-society/us-air-pollution-data
+* https://aqicn.org/city/usa/alabama
+* https://www.epa.gov/air-trends/particulate-matter-pm10-trends
+* https://www.arcgis.com/home/search.html?q=asthma
+* https://www.cdc.gov/asthma/asthmadata.htm
