@@ -39,3 +39,4 @@ As the effect of influencing factors tend to be consistent across all population
 * https://www.arcgis.com/home/search.html?q=asthma
 * https://www.cdc.gov/asthma/asthmadata.htm
 * https://data.world/data-society/us-air-pollution-data
+* https://public.tableau.com/app/profile/gell.rt.bodork.s/viz/Asthmacases/Sheet5?publish=yes
