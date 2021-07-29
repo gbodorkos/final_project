@@ -3,7 +3,6 @@
 * [Asthma](#asthma)
 * [Datasets](#datasets)
 * [Statistical methods](#statistical-methods)
-* [Datasets](#datasets)
 * [Conclusions](#conclusions)
 * [Links](#links)
 
@@ -18,11 +17,7 @@ The prevalance of asthma in the adult population is on a global average approxim
 
 
 ## Statistical methods
-I used linear regression, KNN, and random forests to see the predictive value of the datasets and I’m going to present the predicted values in my project. The results seemed to show a very weak link between the first two studied cases that in itself didn't prove to be a determining factor. The air quality is just one of the many factors that influence asthma severity, and the datasets lacked the accuracy to identify the effect of air pollutants on a consistent basis. They can however be used to provide a good methodological framework for refined analysis. The third calculation showed very high negative R2 scores which means the model showed to have a low predictive value on the likelihood of having asthma. One way to interpret the ineffectiveness of the model is that ozone levels show a negative link with particle pollution concentration
-
-
-## Datasets
-The first dataset had a yearly documented number of 1175 patients, the second 1516, the third one 791 and I have assigned the matching locally recorded air pollutant values for the statistical measures. The machine learning calculations would arguably have better results with a higher data amount. The publicly available datasets were documented for informative and forecasting purposes and not scientific calculations, which influences the results of the calculations. Understanding the problem and the trends detailed in this project, and the planning of more accurate calcluations does depend on the datasets available
+I used linear regression, KNN, and random forests to see the predictive value of the datasets and I’m going to present the predicted values in my project. The results seemed to show a very weak link between the first two studied cases that in itself didn't prove to be a determining factor. The air quality is just one of the many factors that influence asthma severity, and the datasets lacked the accuracy to identify the effect of air pollutants on a consistent basis. They can however be used to provide a good methodological framework for refined analysis. The third calculation showed very high negative R2 scores which means the model showed to have a low predictive value on the likelihood of having asthma. One way to interpret the ineffectiveness of the model is that ozone levels show a negative link with particle pollution concentration. The first dataset had a yearly documented number of 1175 patients, the second 1516, the third one 791 and I have assigned the matching locally recorded air pollutant values for the statistical measures. The machine learning calculations would arguably have better results with a higher data amount. The publicly available datasets were documented for informative and forecasting purposes and not scientific calculations, which influences the results of the calculations. Understanding the problem and the trends detailed in this project, and the planning of more accurate calcluations does depend on the datasets available
 
 ## Conclusions
 As the effect of influencing factors tend to be consistent across all populations, the aspects of urban planning and individual life choices are also worth considering here. Most of the symptom free population can not intuitively feel the air pollution levels unless the extremely bad cases, and the higher sensitivity of people living with asthma makes data based calculations a relevant topic. A good understanding of air pollutant interactions over the span of decades, the air quality indicators, and the influecing factors contributing to air impurity knowing the effects of genetic predisposition can lead to improved lifestyle choices. Understanding and predicting the weight of air pollutants can make a difference in evaluating decisions on the daily life of those effected directly or indirectly by asthma 
