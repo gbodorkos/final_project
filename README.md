@@ -1,8 +1,7 @@
 # Asthma and Air Pollution
 
 * [Asthma](#asthma)
-* [Environmental effects](#environmental-effects)
-* [Epidemological numbers](#epidemological-numbers)
+* [Datasets](#datasets)
 * [Statistical methods](#statistical-methods)
 * [Datasets](#datasets)
 * [Conclusions](#conclusions)
@@ -14,10 +13,7 @@
 Asthma is a chronic lung disease that is caused by inflammation and an overreaction of the immune system. Symptoms can be episodes of wheezing, coughing, chest tightness, and shortness of breath. One of the environmental triggers is the quality of inhaled air, which is influenced by many factors, one of them is the relative concentration of air pollutants. In this project I was looking at air pollution levels and attempting to see if it can be linked to the relative incidence of astma in different geographical regions
 
 
-## Environmental effects
-Asthma is associated to have a negative correlation with rural environments, most probably due to early influences of the immune system and a relatively "better air". The idea of testing urban and industrial effects on the development and likelihood of asthma symptoms was my main focus. The association of symptom severity and likelihood with air pollutant concentrations has been researched and described in the scientific literature, the question I wanted to see was if I find machine learning models to have a good predictive potential of the inhaled air on the symptoms 
-
-## Epidemological numbers
+## Datasets
 The prevalance of asthma in the adult population is on a global average approximately 1 adult in every 13, however the statistical distribution shows a great variance. I have used the 'PLACES: Local Data for Better Health ' dataset to get the diagnosed asthma ratio percentages and geographically based statistics for the machine learning algorithms. The air pollution datasets were from different websites as I couldn’t find a single one that would have satisfactory quality of all the substance levels I wanted to calculate. I have used one selected state in the United States for each calculations. The first dataset was to see if there’s an easy way to train a model that could predict the incidence of asthma from the measured PM2.5 values in the same geographic region. The second one was focusing on PM10 values, and the third one on gases and substances negatively associated with particular matter presence in the atmosphere. Based on observations and individual reports, the asthma symptoms were triggered by bad air quality, in particular by particle pollution 
 
 
